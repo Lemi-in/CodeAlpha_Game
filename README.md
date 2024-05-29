@@ -27,27 +27,6 @@ This is a multiplayer Tic-Tac-Toe game built using JavaScript, CSS, and HTML for
 - Node.js (v12 or higher)
 - npm (Node package manager)
 
-### Steps
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
-    cd tic-tac-toe
-    ```
-
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Start the server:
-    ```bash
-    npm start
-    ```
-
-4. Open your browser and navigate to:
-    ```
-    http://localhost:3000
-    ```
 
 ## Usage
 
@@ -59,10 +38,6 @@ This is a multiplayer Tic-Tac-Toe game built using JavaScript, CSS, and HTML for
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
